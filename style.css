@@ -13,7 +13,7 @@ html {
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover;  
 }
 
 .intro {
@@ -53,4 +53,19 @@ html {
 .contact-form {
   font-family: 'Raleway', sans-serif;
 }
+
+.container-fluid {
+  position: relative; 
+  text-align: center; 
+}
+img {
+  max-height: 250px; 
+  border-radius: 25px; 
+}
+
+
+
+
+
+
 
